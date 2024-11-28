@@ -48,6 +48,10 @@
 
 如果有别的需求请自行修改
 
-我同时也上传了E-R图转换成与具体机器上的DBMS （SQL Server）所支持的数据模型相符合的逻辑结构，以及SQLserver的建表文件
-可以自行查看
+我同时也上传了E-R图转换成与具体机器上的DBMS （SQL Server）所支持的数据模型相符合的逻辑结构crebas.sql文件，以及SQLserver的建表文件。
 
+简化后的SQLQuery1.sql的建表代码
+
+PhysicalDataModel_1.pdm为E-R图源文件
+
+可以自行查看
