@@ -24,4 +24,30 @@
 
 学生端选课功能：学生可在选课界面查看所有课程信息，并可以选择课程进行选课操作。
 
-#
+# 下面是一下界面展示（包括E-R图）
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172415.png)
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172422.png)
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172430.png)
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172437.png)
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172457.png)
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172517.png)
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172533.png)
+
+# E-R图
+
+![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20161823.png)
+
+# 其他建议
+
+如果有别的需求请自行修改
+
+我同时也上传了E-R图转换成与具体机器上的DBMS （SQL Server）所支持的数据模型相符合的逻辑结构，以及SQLserver的建表文件
+可以自行查看
+
