@@ -41,7 +41,7 @@
 
 ![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20172533.png)
 
-# E-R图
+# 实体用例图
 
 ![Image text](https://github.com/honey-yun/JAVA-/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-28%20161823.png)
 
